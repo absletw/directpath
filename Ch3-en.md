@@ -1,0 +1,3 @@
+                III 
+                SATI
+In this chapter I continue to investigate the “definition” part of the Satipaììhãna Sutta. As a way of providing some background for sati, the third quality mentioned in the “definition”, I briefly survey the general approach to knowledge in early Buddhism. In order to eval- uate sati as a mental quality, the main task of the present chapter, I go on to explore its typical characteristics from different angles, and also contrast it with concentration (samãdhi)
