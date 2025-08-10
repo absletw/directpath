@@ -2,7 +2,7 @@
 **G E N E R A L A S P E C T S O F T H E D I R E C T P A T H** 
 To begin, I will survey the underlying structure of the Satipaììhãna Sutta and consider some general aspects of the four satipaììhãnas. I will then examine the expressions “direct path” and “satipaììhãna”. 
 ## i.1 OVERVIEW OF THE SATIPAÌÌHÃNA SUTTA 
-Satipaììhãna as the “direct path” to Nibbãna has received a detailed treatment in the Satipaììhãna Sutta of the Majjhima Nikãya.[^1] Precisely the same discourse recurs as the Mahãsatipaììhãna Sutta of the Dîgha Nikãya, the only difference being that this version offers a more ex- tensive treatment of the four noble truths, the last of the satipaììhãna contemplations.[^2] The topic of satipaììhãna has moreover inspired several shorter discourses in the Saÿyutta Nikãya and the Aúguttara Nikãya.[^3] Apart from the Pãli sources, expositions on satipaììhãna are also preserved in Chinese and Sanskrit, with intriguing occasional variations from the Pãli presentations.[^4]
+Satipaììhãna as the “direct path” to Nibbãna has received a detailed treatment in the Satipaììhãna Sutta of the Majjhima Nikãya.[^1] Precisely the same discourse recurs as the Mahãsatipaììhãna Sutta of the Dîgha Nikãya, the only difference being that this version offers a more ex- tensive treatment of the four noble truths, the last of the satipaììhãna contemplations.[^2] The topic of satipaììhãna has moreover inspired several shorter discourses in the Saÿyutta Nikãya and the Aúguttara Nikãya.[^3] Apart from the Pãli sources, expositions on satipaììhãna are also preserved in Chinese and Sanskrit, with intriguing occasional variations from the Pãli presentations.[^4] ^1a
 
 [^1]: M I 55–63, the tenth discourse of the Majjhima Nikãya.
 
