@@ -1,41 +1,96 @@
 {
   "main": {
-    "id": "a5ace93d9c8b8d63",
+    "id": "494794c8d20d87c6",
     "type": "split",
     "children": [
       {
-        "id": "254c6b960db07a20",
+        "id": "f3d0fc1f02825761",
         "type": "tabs",
         "children": [
           {
-            "id": "b572118da2060c66",
+            "id": "aa55d1c10e63926b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nelsondestouches.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nelsondestouches"
+              "title": "README"
+            }
+          },
+          {
+            "id": "2b4ce409b17a5088",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "test.md",
+                "bFile": "test.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: test"
+            }
+          },
+          {
+            "id": "013720954121d492",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "raw/Direct-Path new.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Direct-Path new"
+            }
+          },
+          {
+            "id": "6e21a5a18fbfcf2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "68813746ab7ce9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anita399646.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anita399646"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "62b324031bad97fa",
+    "id": "fef1ae1b32b57994",
     "type": "split",
     "children": [
       {
-        "id": "5935fc0e8dd9ab87",
+        "id": "228cdb0081f5189d",
         "type": "tabs",
         "children": [
           {
-            "id": "72353fc728c6ccf1",
+            "id": "f7630d1a5173dc10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +103,7 @@
             }
           },
           {
-            "id": "9ab8290902473731",
+            "id": "f99b0d73f3f37e0d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +120,7 @@
             }
           },
           {
-            "id": "9f145e084ccb501a",
+            "id": "33713ed92f5a5321",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +136,20 @@
     "width": 300
   },
   "right": {
-    "id": "61cfd2f5c5b87048",
+    "id": "3dd6d6ae82c4309d",
     "type": "split",
     "children": [
       {
-        "id": "914095da519c3a80",
+        "id": "0fca8895256a8558",
         "type": "tabs",
         "children": [
           {
-            "id": "4046ddd8dbc5c61f",
+            "id": "2f4b846d1ce71c04",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nelsondestouches.md",
+                "file": "shenrezi71.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +159,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "nelsondestouches 的反向連結"
+              "title": "shenrezi71 的反向連結"
             }
           },
           {
-            "id": "5a3462bd8e7abcba",
+            "id": "6db1144a14625419",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nelsondestouches.md",
+                "file": "shenrezi71.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "nelsondestouches 的對外連結"
+              "title": "shenrezi71 的對外連結"
             }
           },
           {
-            "id": "4755f1962b383b40",
+            "id": "3e644b7c33e13daf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +192,22 @@
             }
           },
           {
-            "id": "2c8caab8e8a0feea",
+            "id": "266124047d4ae6e3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "nelsondestouches.md",
+                "file": "shenrezi71.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "nelsondestouches 的大綱"
+              "title": "shenrezi71 的大綱"
             }
           },
           {
-            "id": "2a4a68dd39189fce",
+            "id": "0ec79b6c06a3843f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,6 +234,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b572118da2060c66",
-  "lastOpenFiles": []
+  "active": "68813746ab7ce9b9",
+  "lastOpenFiles": [
+    "shenrezi71.md",
+    "README.md",
+    "raw/Satipatthana_v2_Satipatthana_《念住：通往證悟的直接之道》二版_f.pdf",
+    "anita399646.md",
+    "esenhuang.md",
+    "esenhuang2.md",
+    "nelsondestouches.md",
+    "raw/Direct-Path new.pdf",
+    "qazwsxecr2",
+    "test.md"
+  ]
 }
